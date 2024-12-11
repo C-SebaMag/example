@@ -16,7 +16,7 @@
     "description" : "The Bank Directory API"
   }, {
     "name" : "Customers",
-    "description" : "View customer information"
+    "description" : "View Customer Information"
   }, {
     "name" : "Funding",
     "description" : "View order and payment funding event information"
