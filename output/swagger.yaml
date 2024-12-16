@@ -534,7 +534,7 @@
       },
       "post" : {
         "tags" : [ "Customers" ],
-        "summary" : "Create a customer bank",
+        "summary" : "Create customer bank",
         "operationId" : "Create Customer Bank",
         "requestBody" : {
           "content" : {
