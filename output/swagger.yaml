@@ -134,7 +134,7 @@
     "/bank-directory/search" : {
       "post" : {
         "tags" : [ "Bank Directory" ],
-        "summary" : "Bank details",
+        "summary" : "Bank detailss",
         "description" : "Bank details can be found by providing Bank Country as well as Currency and at least one of the following: SWIFT Routing Code (e.g. Sort Code, BSB Code, Fedwire number etc.) Bank Name and City Street address may be provided to further filter the results\n",
         "operationId" : "Get Bank Directory",
         "requestBody" : {
